@@ -1,0 +1,5 @@
+{
+    "response_type": "webhook",
+    "response_url": "https://hooks.slack.com/services/...",
+    "slack_token": "insertyourtokenhere"
+}
